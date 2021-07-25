@@ -1,0 +1,42 @@
+body { 
+    background: url(https://images.unsplash.com/photo-1576173992415-e0ca34dc0a8a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZGFydGglMjB2YWRlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  h1{
+      color: whitesmoke;
+      font-size: 100px;
+      font-family: 'Kaushan Script', cursive; 
+      letter-spacing: 2px;
+      
+
+  }
+  p{
+      color: whitesmoke;
+      font-size: 25px;
+      padding: 10px;
+      -webkit-text-stroke-width: .5px;
+      -webkit-text-stroke-color: red;
+      padding-left: 25px;
+      font-family: 'Kaushan Script', cursive;
+      
+  }
+  h2{
+   
+    padding-left: 25px;
+    font-family: 'Kaushan Script', cursive; 
+    color: red;
+  }
+  h4{
+    -webkit-text-stroke-width: .1px;
+    -webkit-text-stroke-color: whitesmoke;
+    padding-left: 25px;
+    font-size: 20px;
+    font-family: 'Kaushan Script', cursive;
+    
+    
+
+  }
